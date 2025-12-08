@@ -1,7 +1,7 @@
 # 2025-Tubitak-2204-A-Projesi
-The traffic managemet project of me and my friend for Tubitak 2204-A.
+2026 Tübitak 2204-A Lise Ögrencile Proje Yarışması için hazırlanmış C++ sinyalize kavşak simülasyon uygulaması.
 
-Isik simulasyon programlari isik_sim_vX olarank isimlendirilmistir. Calisan son isik simulasyonu isik_sim_v9 versiyonudur.
+Isik simulasyon programlari isik_sim_vx_y olarank isimlendirilmistir. Calisan son isik simulasyonu isik_sim_v2_2 versiyonudur.
 Son versiyonda kullanilabilir algoritmalar:
 
 Algoritma 1.1: Test Amacli Kullanicidan Alinan Veriler
